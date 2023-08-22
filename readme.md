@@ -1,3 +1,2 @@
-Technology used:
-  Elastic Search
-  GOLang 
+Technology used: GoLang & Elastic Search 
+ 
